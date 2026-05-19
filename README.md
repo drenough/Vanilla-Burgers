@@ -22,13 +22,13 @@
 
 | Burger | Recipe | Hunger |
 |--------|--------|--------|
-| Steak Burger | Bread + Cooked Beef + Bread | 10 |
-| Pork Burger | Bread + Cooked Porkchop + Bread | 9 |
-| Chicken Burger | Bread + Cooked Chicken + Bread | 7 |
-| Rabbit Burger | Bread + Cooked Rabbit + Bread | 6 |
-| Cod Burger | Bread + Cooked Cod + Bread | 6 |
-| Salmon Burger | Bread + Cooked Salmon + Bread | 7 |
-| Mutton Burger | Bread + Cooked Mutton + Bread | 9 |
+| Steak Burger | Bread + Cooked Beef + Bread | 14 |
+| Pork Burger | Bread + Cooked Porkchop + Bread | 14 |
+| Chicken Burger | Bread + Cooked Chicken + Bread | 13 |
+| Rabbit Burger | Bread + Cooked Rabbit + Bread | 12 |
+| Cod Burger | Bread + Cooked Cod + Bread | 12 |
+| Salmon Burger | Bread + Cooked Salmon + Bread | 13 |
+| Mutton Burger | Bread + Cooked Mutton + Bread | 13 |
 
 ---
 
