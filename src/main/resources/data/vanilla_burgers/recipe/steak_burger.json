@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:bread",
+    "minecraft:cooked_beef",
+    "minecraft:bread"
+  ],
+  "result": {
+    "id": "vanilla_burgers:steak_burger",
+    "count": 1
+  }
+}

@@ -1,0 +1,31 @@
+modLoader="javafml"
+loaderVersion="${loader_version_range}"
+license="MIT"
+
+[[mods]]
+modId="vanilla_burgers"
+version="${mod_version}"
+displayName="Vanilla Burgers"
+authors="DrEnough"
+description='''Mod adding simple Vanilla Burgers'''
+
+[[dependencies.vanilla_burgers]]
+modId="neoforge"
+type="required"
+versionRange="${neo_version_range}"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.vanilla_burgers]]
+modId="minecraft"
+type="required"
+versionRange="${minecraft_version_range}"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.drenough_forging]]
+modId="jei"
+type="optional"
+versionRange="[29.6.0,30.0.0)"
+ordering="NONE"
+side="BOTH"
