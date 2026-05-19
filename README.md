@@ -55,7 +55,7 @@ This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.t
 
 ## 📎 Links
 
-- [CurseForge](https://www.curseforge.com/minecraft/mc-mods/vanilla-burgers) *(add your link after release)*
+- [CurseForge](https://www.curseforge.com/minecraft/mc-mods/vanilla-burgers)
 - [Report Issues](https://github.com/drenough/vanilla_burgers/issues)
 
 ---
